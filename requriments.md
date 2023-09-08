@@ -1,5 +1,3 @@
-pip install keyboard
-
-pip install requests
-
-pip install geocoder
+# pip install keyboard
+# pip install requests
+# pip install geocoder
